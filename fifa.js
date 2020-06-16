@@ -18709,7 +18709,7 @@ export const fifaData = [
     "Home Team Goals": 0,
     "Away Team Goals": 3,
     "Away Team Name": "Netherlands",
-    "Win conditions": "",
+    "Win conditions": "Netherlands wins by 3",
     "Attendance": 68034,
     "Half-time Home Goals": 0,
     "Half-time Away Goals": 2,
